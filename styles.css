@@ -1,10 +1,10 @@
 :root {
-    --branco-principal: #FFFFFF;
+    --branco-principal: #bf00ff;
     --cinza-secundario: #C0C0C0;
     --botao-azul: purple;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: purple;
+    --botao-azul-efeito:  purprgb(88, 4, 88)
 }
 
 body {
